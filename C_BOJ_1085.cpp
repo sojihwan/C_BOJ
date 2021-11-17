@@ -17,5 +17,6 @@ int main(void){
 			printf("%d", (y > x) ? x : y); 
 		else printf("%d", w - x);
 	}
+	
 }
 
