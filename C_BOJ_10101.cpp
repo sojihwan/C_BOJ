@@ -11,6 +11,7 @@ int main(){
 	else if(a+b+c==180){
 		printf("Scalene");
 	}
+	
 	else{
 		printf("Error");
 	}
