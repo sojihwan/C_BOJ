@@ -18,6 +18,7 @@ void solve(int n, int y, int x)
     solve(n / 2, y, x + 3 * n / 2);
     solve(n / 2, y + 3 * n / 2, x);
     solve(n / 2, y + 3 * n / 2, x + 3 * n);
+    
 }
  
 int main()
